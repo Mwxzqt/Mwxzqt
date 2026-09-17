@@ -1,16 +1,71 @@
-## Hi there 👋
+> whoami 👾
+student@github:~$ whoami
 
-<!--
-**Mwxzqt/Mwxzqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Student
+> Beginner Developer
+> Future Programmer
+> Cybersecurity enthusiast
 
-Here are some ideas to get you started:
+> about_me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Student learning programming from scratch.
+
+💻 Currently learning how to build my first projects.
+
+🧠 Exploring programming, Linux, Git & cybersecurity.
+
+🚀 One line of code at a time.
+
+> learning
+Python        [████░░░░░░] Learning
+JavaScript    [███░░░░░░░] Learning
+HTML / CSS    [████░░░░░░] Learning
+Git / GitHub  [███░░░░░░░] Learning
+Linux         [██░░░░░░░░] Beginner
+
+> projects
+$ ls projects/
+
+> Coming soon...
+
+$ ./start_learning.sh
+
+[+] Starting...
+[+] Learning...
+[+] Coding...
+[+] Building projects...
+[████████████████████] 100%
+
+> goals
+
+🔥 Improve my programming skills
+
+💻 Build my first real projects
+
+🐍 Learn Python
+
+🌐 Learn web development
+
+🔐 Explore cybersecurity
+
+🚀 Become a better developer
+
+> status
+╔══════════════════════════════════╗
+║          SYSTEM STATUS           ║
+╠══════════════════════════════════╣
+║ 🟢 ONLINE                        ║
+║ 🎓 STUDENT                       ║
+║ 💻 LEARNING                      ║
+║ 🚀 BUILDING                      ║
+║ ☕ COFFEE REQUIRED               ║
+╚══════════════════════════════════╝
+
+> connect
+GitHub → You're already here 👀
+
+01001000 01100101 01101100 01101100 01101111
+
+> Keep learning.
+> Keep building.
+> Never stop. 🚀
