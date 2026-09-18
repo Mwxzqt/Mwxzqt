@@ -2,7 +2,7 @@
 I'm currently doing class projects and exercises
 # 🌕
 <div align="center">
-  <img src="./s7iIvfD.gif/>
+  <img src="./s7iIvfD.gif">
 </div>
 
 ---
