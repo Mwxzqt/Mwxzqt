@@ -8,7 +8,7 @@ I'm currently doing class projects and exercises
 
 ### 🌕
 <div align="center">
-  <img src="./gittt.gif/>
+  <img src="./s7iIvfD.gif/>
 </div>
 
 ---
