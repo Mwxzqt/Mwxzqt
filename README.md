@@ -9,7 +9,7 @@
 
 ## About Me
 
-Passionate about transforming ideas into code, I’m a dedicated tech studient willing to become some day a FULLSTACK PRO.
+Passionate about transforming ideas into code, I’m a dedicated tech student willing to become some day a FULLSTACK PRO.
 
 - 🏢 Working at **ITB** in **Barcelona, CAT**
 - 🌱 Currently learning **Currently diving into the world of web development, mastering the latest frameworks and honing my JavaScript skills.**
