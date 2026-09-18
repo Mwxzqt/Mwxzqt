@@ -13,12 +13,11 @@ Passionate about transforming ideas into code, I’m a dedicated tech studient w
 
 - 🏢 Working at **ITB** in **Barcelona, CAT**
 - 🌱 Currently learning **Currently diving into the world of web development, mastering the latest frameworks and honing my JavaScript skills.**
-- 💬 Ask me about **Ask me about programming concepts, web development best practices, or how to tackle coding challenges.**
 - ⚡ I once built a fully functional website in a single weekend just to impress my friends!
 
-## 🛠️ Tech Stack
+## Tech Stack 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
